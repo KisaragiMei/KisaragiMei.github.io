@@ -1,4 +1,4 @@
-const VERSION = "1782816455426";const preCache = ["/KisaragiMei/KisaragiMei.github.io/images/taichi.png","/KisaragiMei/KisaragiMei.github.io/images/banner.webp","/KisaragiMei/KisaragiMei.github.io/css/loader.css","/KisaragiMei/KisaragiMei.github.io/css/style.css","/KisaragiMei/KisaragiMei.github.io/js/script.js"];const cacheDomain = [
+const VERSION = "1782819249311";const preCache = ["/images/taichi.png","/images/banner.webp","/css/loader.css","/css/style.css","/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
